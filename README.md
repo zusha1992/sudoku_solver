@@ -1,2 +1,3 @@
 # sudoku_solver
-program that solves a sudoku board
+input: list - sudoku board
+output: solved sudoku
